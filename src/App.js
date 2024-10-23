@@ -1,6 +1,6 @@
 
 import './App.css';
-import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import logo from './ASSETS/logo.png'
 import hero from './ASSETS/Untitled design(2).png'
 import heading from './ASSETS/THE OG OF.png'
@@ -51,7 +51,6 @@ function App() {
           <Route path="/menu" element={<Menu/>}/>
           <Route path="/franchising" element={<Franchising/>}/>
           <Route path="/locations" element={<Locations/>}/>
-          
         </Routes>
 
         <footer className='flex flex-row justify-between items-center bg-black text-white'>
