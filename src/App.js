@@ -1,6 +1,6 @@
 
 import './App.css';
-import { BrowserRouter as BrowserRouter, Routes, Route, Link, BrowserRouter } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import logo from './ASSETS/logo.png'
 import hero from './ASSETS/Untitled design(2).png'
 import heading from './ASSETS/THE OG OF.png'
@@ -26,7 +26,7 @@ import Locations from './Locations';
 
 function App() {
   return (
-    <BrowserRouter basename='/bruhs-hot-chicken'>
+    <Router>
       <main className="border border-black bg-dark_purple overflow-hidden">
         <header className='flex flex-row  justify-between items-center bg-gradient-to-tr from-dark_purple to-yellow-400'>
           <img src={logo} alt='' className='w-44 h-20 '/>
@@ -75,7 +75,7 @@ function App() {
       </footer>
       </main>
       
-    </BrowserRouter>
+    </Router>
     
       
       
