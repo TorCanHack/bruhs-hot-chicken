@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bruhs-hot-chicken/static/css/main.45e004f9.css",
-    "main.js": "/bruhs-hot-chicken/static/js/main.9de476e6.js",
+    "main.js": "/bruhs-hot-chicken/static/js/main.a1f20831.js",
     "static/js/453.898ecaf5.chunk.js": "/bruhs-hot-chicken/static/js/453.898ecaf5.chunk.js",
     "static/media/coolchicken.png": "/bruhs-hot-chicken/static/media/coolchicken.51bb86646eb220cbb57b.png",
     "static/media/team_photo.png": "/bruhs-hot-chicken/static/media/team_photo.ac5b92459c464d2dd9fc.png",
@@ -72,11 +72,11 @@
     "static/media/bruhheading3.png": "/bruhs-hot-chicken/static/media/bruhheading3.ae11555b04719abbda9d.png",
     "index.html": "/bruhs-hot-chicken/index.html",
     "main.45e004f9.css.map": "/bruhs-hot-chicken/static/css/main.45e004f9.css.map",
-    "main.9de476e6.js.map": "/bruhs-hot-chicken/static/js/main.9de476e6.js.map",
+    "main.a1f20831.js.map": "/bruhs-hot-chicken/static/js/main.a1f20831.js.map",
     "453.898ecaf5.chunk.js.map": "/bruhs-hot-chicken/static/js/453.898ecaf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45e004f9.css",
-    "static/js/main.9de476e6.js"
+    "static/js/main.a1f20831.js"
   ]
 }
